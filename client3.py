@@ -24,7 +24,7 @@ import json
 import random
 
 # Server API URLs
-QUERY = "http://localhost:8080/query?id={}"
+QUERY = "http://localhost:8085/query?id={}"
 
 # 500 server request
 N = 500
